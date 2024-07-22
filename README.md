@@ -9,7 +9,7 @@ As a dedicated full-stack developer, I derive immense satisfaction from crafting
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [atumadavid35@gmail.com](mailto:atumadavid35@gmail.com)
 * 🚀  I'm currently working on My Portfolio Website
-* 🧠  I'm learning PHP, Web3
+* 🧠  I'm learning Solidity/Web3, Backend
 * 🤝  I'm open to collaborating on Any Finance Related projects
 
 ### Skills
