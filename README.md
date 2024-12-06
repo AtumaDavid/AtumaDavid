@@ -42,6 +42,3 @@
 - Google Cloud Platform (GCP)
 - Kubernetes
 - Git
-
-## Connect With Me
-[You can add your social media links or contact information here]
