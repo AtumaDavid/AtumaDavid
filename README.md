@@ -1,6 +1,6 @@
 # Hi there! I'm Atuma David, a Software Developer
 
-🌱 I'm currently learning C# and .NET Core
+🌱 I'm currently learning Golang
 
 ❓ Ask me about anything related to MERN stack and related technologies
 
@@ -27,8 +27,6 @@
 - TypeScript
 - MongoDB
 - MySQL
-- C#
-- .NET Core
 - NestJS
 - Redis
 - GraphQL
@@ -40,5 +38,4 @@
 ### DevOps
 - AWS
 - Google Cloud Platform (GCP)
-- Kubernetes
 - Git
